@@ -100,10 +100,14 @@ Ensure logistic_regression_pipeline_fixed.pkl is generated with recreate_pipelin
 Performance
 
 Model Metrics:
+
 F1-score: 0.6160
-Recall: 0.7914 (good at identifying churners)
+
+Recall: 0.7914 
+
 ROC-AUC: 0.8371
-Precision: 0.5043 (some false positives)
+
+Precision: 0.5043
 
 
 Dataset: Telco Customer Churn dataset (7043 records, 21 columns).
